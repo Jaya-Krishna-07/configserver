@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Bank cards related prod APIs "
+  contactDetails:
+    name: "John - Product Owner"
+    email: "john@bank.com"
+  onCallSupport:
+    - (91) 9876543210
+    - (91) 9876543210
